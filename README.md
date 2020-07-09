@@ -9,6 +9,4 @@ I focus on responsive web design, frontend security and performance and strive t
 JavaScript, Vue / Vuex / Nuxt, SCSS
 
 ### 📫 How to reach me
-[Telegram](https://t.me/relerin)
-
-[Website](https://reler.in)
+[Telegram](https://t.me/relerin)  |  [Website](https://reler.in)
