@@ -8,9 +8,9 @@
 
 ---
 
-I'm a Frontend Engineer with 5+ years of professional experience in web development.
+<img src="https://github.com/rustcohlnikov/rustcohlnikov/raw/master/kitten.gif" width="80">
 
-I focus on responsive web design, frontend security and performance and strive to create web applications that are aesthetically beautiful, fast, stable, and secure.
+I'm a Frontend Engineer with 5+ years of professional experience in web development.
 
 ### ⚡️ Tech stack
 JavaScript, Vue / Vuex / Nuxt, SCSS
